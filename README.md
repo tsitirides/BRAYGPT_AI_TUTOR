@@ -8,6 +8,9 @@ BrayGPT is a personalized coding tutor powered by OpenAI's GPT-3.5. It offers a 
 - Explains programming concepts in an easy-to-understand manner
 - Offers variations and alternative approaches to problems
 - Interactive games for learning programming topics
+## DEMO
+
+<img width="1408" alt="image" src="https://github.com/tsitirides/BRAYGPT_AI_TUTOR/assets/47327032/e28f0d01-e700-4009-8b7c-e7209c762aa2">
 
 ## Installation
 
