@@ -82,5 +82,5 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 
 ## Contact
 
-For any questions or feedback, please contact [your_email@example.com].
+For any questions or feedback, please contact braydentsitirides@gmail.com
 
