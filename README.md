@@ -50,7 +50,7 @@ To run BrayGPT locally, follow these steps:
     Start the Streamlit application.
 
     ```bash
-    streamlit run app.py
+    streamlit run ai_tutor_test.py
     ```
 
 ## Usage
@@ -65,9 +65,8 @@ To run BrayGPT locally, follow these steps:
 - `.env.example`: Example file for environment variables.
 - `.gitignore`: Git ignore file to exclude unnecessary files.
 - `README.md`: This file.
-- `app.py`: Main application file.
+- `ai_tutor_test.py`: Main application file.
 - `requirements.txt`: List of required Python packages.
-- `screenshots/`: Directory for screenshots.
 
 ## Dependencies
 
