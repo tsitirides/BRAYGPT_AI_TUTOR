@@ -1,6 +1,5 @@
 from gc import collect
 import os
-from tkinter.tix import Tree
 from openai import OpenAI
 import panel as pn
 import streamlit as st
