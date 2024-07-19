@@ -1,7 +1,6 @@
 from gc import collect
 import os
 from openai import OpenAI
-import panel as pn
 import streamlit as st
 from streamlit_chat import message
 from dotenv import load_dotenv
