@@ -78,8 +78,11 @@ body {
 }
 </style>
     """, unsafe_allow_html=True)
+
+api_key = st.secrets["api"]["key"]
+
 client = OpenAI(
-    api_key=os.getenv('OPEN_API_KEY'),
+    api_key=api_key,
 )
 
 cText = """ Your name is BrayGPT, a personal coding tutor that has the personality of Kevin Hart the comedian.
